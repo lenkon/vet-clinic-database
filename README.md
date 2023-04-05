@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Vet clinic database: create animals table</b></h3>
+  <h3><b>Vet clinic database: query and update animals table</b></h3>
 
 </div>
 
@@ -26,11 +26,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Vet clinic database: create animals table] <a name="about-project"></a>
+# 📖 [Vet clinic database: query and update animals table] <a name="about-project"></a>
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: create animals table]** is...
+**[Vet clinic database: query and update animals table]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -59,6 +59,7 @@
 - **[Create a database]**
 - **[Create a table]**
 - **[Insert data into table]**
+- **[Update table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
