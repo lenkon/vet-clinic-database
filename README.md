@@ -39,13 +39,6 @@
 >  Built with PostgreSQL.
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -94,22 +87,8 @@ Clone this repository to your desired folder:
 ```
 ### Install
 
-Install all project dependencies by running the command below:
+Select correct package and install from https://www.postgresql.org/download/
 
-``` 
-  $ 
-```
-### Usage
-
-Start the application server
-``` 
-  $ 
-```
-### Test
-Run the test using the command
-``` 
-  $ 
-```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
