@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Vet clinic database: query and update animals table</b></h3>
+  <h3><b>Vet clinic database: query multiple tables</b></h3>
 
 </div>
 
@@ -16,9 +16,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)  
-  - [Test](#test)  
+  - [Install](#install)  
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,24 +24,17 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Vet clinic database: query and update animals table] <a name="about-project"></a>
+# 📖 [Vet clinic database: query multiple tables] <a name="about-project"></a>
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: query and update animals table]** is...
+**[Vet clinic database: query multiple tables]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 >  Built with PostgreSQL.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -60,6 +51,7 @@
 - **[Create a table]**
 - **[Insert data into table]**
 - **[Update table]**
+- **[Query multiple table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,22 +85,8 @@ Clone this repository to your desired folder:
 ```
 ### Install
 
-Install all project dependencies by running the command below:
+Select correct PostgreSQL package and install from https://www.postgresql.org/download/
 
-``` 
-  $ 
-```
-### Usage
-
-Start the application server
-``` 
-  $ 
-```
-### Test
-Run the test using the command
-``` 
-  $ 
-```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
