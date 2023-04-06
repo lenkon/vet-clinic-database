@@ -16,9 +16,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)  
-  - [Test](#test)  
+  - [Install](#install)  
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -87,7 +85,7 @@ Clone this repository to your desired folder:
 ```
 ### Install
 
-Select correct package and install from https://www.postgresql.org/download/
+Select correct PostgreSQL package and install from https://www.postgresql.org/download/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
