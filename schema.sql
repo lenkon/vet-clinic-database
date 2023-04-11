@@ -60,3 +60,20 @@ CREATE TABLE visits(
   FOREIGN KEY(animal_id) REFERENCES animals(id),
   FOREIGN KEY(vet_id) REFERENCES vets(id)
 );
+
+/* Vet clinic database: database performance audit */
+
+-- Add an email column to your owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+-- Drop NOT NULL age column constraint
+ALTER TABLE owners ALTER COLUMN age DROP NOT NULL;
+
+-- Add index for animal_id on visits
+CREATE INDEX ix_animal_id ON visits(animal_id);
+
+-- Add index for vet_id on visits
+CREATE INDEX ix_vet_id ON visits(vet_id);
+
+-- Add index for email on owners
+CREATE INDEX ix_email ON owners(email);

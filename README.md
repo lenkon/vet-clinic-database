@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Vet clinic database: add join table for visits</b></h3>
+  <h3><b>Vet clinic database: database performance audit</b></h3>
 
 </div>
 
@@ -16,7 +16,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)  
+  - [Install](#install)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -24,11 +24,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Vet clinic database: add join table for visits] <a name="about-project"></a>
+# 📖 [Vet clinic database: database performance audit] <a name="about-project"></a>
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: add join table for visits]** is...
+**[Vet clinic database: database performance audit]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,6 +53,7 @@
 - **[Update table]**
 - **[Query multiple table]**
 - **[Create join tables]**
+- **[Performance audit]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +80,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``` 
+```
   $ git clone https://github.com/lenkon/vet-clinic-database
 
   $ cd vet-clinic-database
@@ -94,8 +95,11 @@ Select correct PostgreSQL package and install from https://www.postgresql.org/do
 
 👤 **lenkon**
 
-- GitHub: [@lenkon](https://github.com/lenkon)
+- GitHub: [@K Inoulen Shanongba](https://github.com/lenkon)
 
+👤 **Victoria**
+
+- GitHub: [@Victoria Tumwebaze](https://github.com/Victoria129)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
