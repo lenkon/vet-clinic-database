@@ -16,7 +16,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)  
+  - [Install](#install)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -80,7 +80,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``` 
+```
   $ git clone https://github.com/lenkon/vet-clinic-database
 
   $ cd vet-clinic-database
@@ -97,7 +97,7 @@ Select correct PostgreSQL package and install from https://www.postgresql.org/do
 
 - GitHub: [@K Inoulen Shanongba](https://github.com/lenkon)
 
-👤 **lenkon**
+👤 **Victoria**
 
 - GitHub: [@Victoria Tumwebaze](https://github.com/Victoria129)
 
