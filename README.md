@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Vet clinic database: database performance audit</b></h3>
+  <h3><b>Vet clinic database: add database schema diagram</b></h3>
 
 </div>
 
@@ -24,11 +24,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Vet clinic database: database performance audit] <a name="about-project"></a>
+# 📖 [Vet clinic database: add database schema diagram] <a name="about-project"></a>
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: database performance audit]** is...
+**[Vet clinic database: add database schema diagram]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,6 +54,7 @@
 - **[Query multiple table]**
 - **[Create join tables]**
 - **[Performance audit]**
+- **[Database schema diagram]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
